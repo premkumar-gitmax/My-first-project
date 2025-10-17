@@ -1,2 +1,2 @@
 # My-first-project
-This is my changes in practice session
+This is my practice session
